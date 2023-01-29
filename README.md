@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there, I'm Oguzhan 👋
+## Data Scientist,  Machine Learning Enthusiast
 <!--
 **Oguzhn8/Oguzhn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
